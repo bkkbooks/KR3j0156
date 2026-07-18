@@ -21,7 +21,7 @@ assets:
   - {seq: 1, filename: KR3j0156_001-WYG.yaml, hash: 'sha256:eeabae6e20ed4bea6866136dd03e179116797f37380dfacb823eb1e72570f5ee'}
   - {seq: 2, filename: KR3j0156_002-WYG.yaml, hash: 'sha256:d138e61e30ba4737261885d7f4f5f5ba32f4d3d88d4b1d8bdc2a083a0bd7bc3e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3j0156_000-WYG.markers.yaml, hash: 'sha256:cea50060f205e022b87729b7bd61b150052d9c4d14f4bcc99d80bf718685911b'}
+  - {seq: 0, role: markers, filename: assets/KR3j0156_000-WYG.markers.yaml, hash: 'sha256:7c463b2b2fff86896935eed0d2a12fc9809a2f341480c5334b2310d1be783655'}
   - {seq: 1, role: markers, filename: assets/KR3j0156_001-WYG.markers.yaml, hash: 'sha256:51f6ddb4042839bd0c95fe06fab91209b97670fa566143c0278534e5293d4781'}
   - {seq: 2, role: markers, filename: assets/KR3j0156_002-WYG.markers.yaml, hash: 'sha256:2ebed3ffd50e70742da665cb42e877e4335c3dde258064e6ac94ae8250dd61b1'}
 table_of_contents:
@@ -55,4 +55,4 @@ table_of_contents:
   label: 卷下
   type: section
   level: 1
-hash: sha256:50e93c7bfe6bd0c41caa5606bcf02dc541d659d40268a3a379c0a26c43b5fdb1
+hash: sha256:cebad78f9d468c82ecaddf09301a70514d363ef2d8169bc6e4272b960bebb334
